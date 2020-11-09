@@ -8,6 +8,8 @@ public class Test {
         System.out.println("the first is fail");
 
         System.out.println("hi");
+
+        System.out.println("what");
     }
 
 
