@@ -5,7 +5,6 @@ public class Test {
 
         System.out.println("hello git");
 
-
         System.out.println("the first is fail");
 
         System.out.println("hi");
